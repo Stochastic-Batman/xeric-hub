@@ -2,5 +2,11 @@
 name = "xeric-hub"
 version = "0.1.0"
 edition = "2024"
+authors = ["Stochastic Batman"]
+readme = "README.md"
+repository = "https://github.com/Stochastic-Batman/xeric-hub"
+license = "GPL-3.0-or-later"
+keywords = ["HTTP", "multi-threaded", "server"]
+
 
 [dependencies]

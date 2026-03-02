@@ -30,14 +30,4 @@ cd xeric-hub
 cargo run
 ```
 
-3. **Access the hub:**
-
-Open your browser and navigate to `http://127.0.0.1:7878`.
-
-## Implementation Details
-
-XericHub is built using:
-
-* `std::net::TcpListener` for networking.
-* `std::thread` and `std::sync` (Arc, Mutex, mpsc) for concurrency.
-* A custom-built `ThreadPool` library.
+3. **Access the hub:** Open your browser and navigate to `http://127.0.0.1:7878`.

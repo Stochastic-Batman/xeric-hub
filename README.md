@@ -1,6 +1,6 @@
 # xeric-hub
 
-A minimalist, multi-threaded HTTP server
+A minimalist (and limited), multi-threaded HTTP server
 
 This project follows the final chapter of [*The Rust Programming Language*](https://doc.rust-lang.org/book/title-page.html) book to explore low-level networking, threads, and graceful shutdown.
 
